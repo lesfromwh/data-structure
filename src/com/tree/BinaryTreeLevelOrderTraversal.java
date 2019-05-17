@@ -31,6 +31,10 @@ public class BinaryTreeLevelOrderTraversal {
      * 15  7
      * <p>广度搜索法.一层一层的来.</>
      * 时间复杂度是O(n)= n^2 ??
+     * <p>
+     * 广度优先搜索的时间复杂度分析:
+     * <p>
+     * 由于每个节点仅被发现一次，好像是O(n)?
      */
     public static List<List<Integer>> levelOrder(TreeNode root) {
         ArrayList<List<Integer>> result = new ArrayList<>();
