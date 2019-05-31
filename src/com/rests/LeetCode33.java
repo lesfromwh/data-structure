@@ -1,7 +1,7 @@
 package com.rests;
 
 /**
- * Search in Rotated Sorted numsay 搜索选择排序数组
+ * Search in Rotated Sorted numsay 搜索旋转排序数组
  * ( 例如，数组 [0,1,2,4,5,6,7] 可能变为 [4,5,6,7,0,1,2] )。
  * <p>
  * 搜索一个给定的目标值，如果数组中存在这个目标值，则返回它的索引，否则返回 -1 。
