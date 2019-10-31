@@ -1,4 +1,4 @@
-package com.hash;
+package com.arr;
 
 
 import java.util.ArrayList;
@@ -10,6 +10,7 @@ import java.util.HashSet;
 import java.util.List;
 
 /**
+ * 三数之和
  * 存在a+b+c=0
  * Given array nums = [-1, 0, 1, 2, -1, -4],
  * <p>
@@ -22,7 +23,7 @@ import java.util.List;
  * @author liushuang 2019/5/9
  */
 
-public class ThreeSum {
+public class Leetcode15 {
 
     public static void main(String[] args) {
         int nums[] = {-1, 0, 1, 2, -1, -4};

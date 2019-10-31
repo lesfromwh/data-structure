@@ -1,10 +1,10 @@
-package com.hash;
+package com.arr;
 
 import java.util.Arrays;
 import java.util.HashMap;
 
 /**
- * 1.返回目标和的下标
+ * 1.返回目标和的下标(两数之和)
  * Given nums = [2, 7, 11, 15], target = 9,
  * <p>
  * Because nums[0] + nums[1] = 2 + 7 = 9,
@@ -12,7 +12,7 @@ import java.util.HashMap;
  *
  * @author liushuang 2019/3/26
  */
-public class TwoSum {
+public class Leetcode1 {
 
     //方法1:双层循环 O(n²)
 
